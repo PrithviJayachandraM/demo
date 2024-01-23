@@ -1,1 +1,3 @@
-Testing file for git
+Testing file for git branch
+
+Branch = Test
